@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=DV Encoder Studio
+Comment=Codifica MiniDV y crea recuerdos familiares
+Exec=dv-encoder-studio
+Icon=dv-encoder-studio
+StartupWMClass=Dv-encoder-studio
+Terminal=false
+Categories=AudioVideo;Video;

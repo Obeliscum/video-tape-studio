@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+settings.json
+*.db
+*.db-*
+*.dv
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+.env
