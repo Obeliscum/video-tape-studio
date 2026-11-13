@@ -12,8 +12,8 @@ Proyecto de **Obeliscum** para digitalizar, conservar y transformar cintas de vÃ
 Requiere Linux y Python 3.10 o posterior. Clona el proyecto o usa **Code â†’ Download ZIP** en GitHub.
 
 ```bash
-git clone https://github.com/Obeliscum/dv-encoder-studio.git
-cd dv-encoder-studio
+git clone https://github.com/Obeliscum/video-tape-studio.git
+cd video-tape-studio
 ```
 
 En Debian/Ubuntu instala las dependencias:
